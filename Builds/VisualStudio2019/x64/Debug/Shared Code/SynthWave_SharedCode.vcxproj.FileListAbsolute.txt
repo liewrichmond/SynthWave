@@ -1,1 +1,0 @@
-C:\Users\richm\Documents\Projects\cppProjects\SynthWave\Builds\VisualStudio2019\x64\Debug\Shared Code\SynthWave.lib
